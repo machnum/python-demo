@@ -1,2 +1,2 @@
-# test2
-testovací repozitář pro učení s GitHubem
+# python-demo
+repozitář pro demo projekty v pythonu
